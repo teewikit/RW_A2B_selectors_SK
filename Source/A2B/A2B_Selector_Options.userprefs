@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="A2B_Selector_Options.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties\AssemblyInfo.cs">
+    <Files>
+      <File FileName="Components\BeltSelectorComponentLeft.cs" Line="8" Column="18" />
+      <File FileName="Components\BeltSelectorComponentLeftSoft.cs" Line="8" Column="23" />
+      <File FileName="Components\BeltSelectorComponentOriginalLeft.cs" Line="8" Column="27" />
+      <File FileName="Components\BeltSelectorComponentOriginalLeftSoft.cs" Line="8" Column="32" />
+      <File FileName="Components\BeltSelectorComponentOriginalRight.cs" Line="6" Column="23" />
+      <File FileName="Components\BeltSelectorComponentOriginalRightSoft.cs" Line="8" Column="33" />
+      <File FileName="Components\BeltSelectorComponentRight.cs" Line="8" Column="24" />
+      <File FileName="Components\BeltSelectorComponentRightSoft.cs" Line="8" Column="29" />
+      <File FileName="Components\BeltSelectorComponentSoft.cs" Line="8" Column="22" />
+      <File FileName="Properties\AssemblyInfo.cs" Line="39" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
