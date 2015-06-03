@@ -2,9 +2,9 @@
 <Defs>
 
   <DesignationCategoryDef>
-    <DefName>ConveyorSelectors</DefName>
-    <label>A2B Selectors</label>
-    <description>Additional selectors for A2B belts.</description>
+    <DefName>ConveyorOptions</DefName>
+    <label>A2B Options</label>
+    <description>Additional conveyor belt components.</description>
     <order>215</order>
     <specialDesignatorClasses>
       <li>Designator_Cancel</li>

@@ -1,6 +1,11 @@
 ﻿<Properties StartupItem="A2B_Selector.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Components\BeltSelectorComponentOppositeSoft.cs">
+    <Files>
+      <File FileName="Components\BeltSelectorComponentOpposite.cs" Line="59" Column="31" />
+      <File FileName="Components\BeltSelectorComponentOppositeSoft.cs" Line="60" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

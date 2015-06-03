@@ -62,7 +62,7 @@ namespace A2B_Selector
 
         private bool IsFreeBelt(IntVec3 position)
         {
-            BeltComponent destBelt = position.GetBeltComponent();
+			BeltComponent destBelt = position.GetBeltComponent( this.BeltLevel );
             return (destBelt != null && destBelt.CanAcceptFrom(this));
         }
 

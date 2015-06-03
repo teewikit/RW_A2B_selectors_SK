@@ -26,7 +26,7 @@
 		<staticSunShadowHeight>0.34</staticSunShadowHeight>
 		
 		<tickerType>Normal</tickerType>
-        <designationCategory>ConveyorSelectors</designationCategory>
+        <designationCategory>ConveyorOptions</designationCategory>
 	</ThingDef>
 
     <ThingDef ParentName="BuildingBase">
