@@ -5,7 +5,7 @@ using A2B;
 
 namespace A2B_Selector
 {
-	public class Left : BeltSelectorComponent
+	public class Left : BeltSelectorAddon
     {
 
         public override IntVec3 GetDestinationForThing(Thing thing)

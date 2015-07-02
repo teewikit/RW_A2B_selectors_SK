@@ -5,7 +5,7 @@ using A2B;
 
 namespace A2B_Selector
 {
-	public class Original_Right_Soft : BeltSelectorComponent
+	public class Original_Right_Soft : BeltSelectorAddon
     {
 		public override bool CanAcceptFrom(Rot4 direction)
 		{
