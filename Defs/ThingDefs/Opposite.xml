@@ -70,7 +70,11 @@
 		</comps>
 		<size>(1,1)</size>
 		<costList>
-			<Steel>25</Steel>
+            		<Parts_Steel>2</Parts_Steel>
+	    		<Mechanism>2</Mechanism>
+            		<Rubber>1</Rubber>
+           		<Electronics>1</Electronics>
+            		<Glass>1</Glass>
 		</costList>
 		<designationHotkey/>
 	</ThingDef>
